@@ -5,3 +5,11 @@
 * Visual Studio **( éditeur de code )**
 * Xampp Server **( hébergeur serveur Web : Local )**
 * ionos.fr **( hébergeur serveur Web : Public )**
+
+## PROJET
+
+
+## CONFIGURATION
+<p> x = oui / = non </p>
+- [ ] : open sources 
+- [x] : copyright
