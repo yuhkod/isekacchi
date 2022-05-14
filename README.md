@@ -10,6 +10,5 @@
 
 
 ## CONFIGURATION
-<p> x = oui / = non </p>
-- [ ] : open sources 
-- [x] : copyright
+- [x] : site web open sources 
+- [x] : isekacchi - Tous droits réservés - 2022
