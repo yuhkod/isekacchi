@@ -8,6 +8,13 @@
 
 ## PROJET
 
+## LANGAGE
+* Html
+* Css
+* JavaScript
+* Php
+* Sql
+
 
 ## OPEN SOURCES - sous conditions
 
