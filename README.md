@@ -9,6 +9,9 @@
 ## PROJET
 
 
-## CONFIGURATION
-- [x] : site web open sources 
-- [x] : isekacchi - Tous droits réservés - 2022
+## OPEN SOURCES - sous conditions
+
+- [x] : open source
+<p>En téléchargent le projet vous accepter les conditions suivantes :</p>
+1. Interdiction de gagner de l'argent avec mon projet sauf autorisations
+<p>**ISEKACCHI | Tous droits réservés - 2022**</p>
