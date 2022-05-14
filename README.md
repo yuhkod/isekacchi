@@ -9,11 +9,11 @@
 ## PROJET
 
 ## LANGAGE
-* Html
-* Css
-* JavaScript
-* Php
-* Sql
+* HTML
+* CSS
+* JAVASCRIPT
+* PHP
+* SQL
 
 
 ## OPEN SOURCES - sous conditions
